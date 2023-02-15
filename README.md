@@ -4,7 +4,7 @@
 ![ferzah](https://komarev.com/ghpvc/?username=FERZAH&color=dc143c)
 
 # About me
-I'm almost 18 years old a junior developer. I love coding and video games. I have 3 years experience and I'm doing this for fun.
+I'm almost 20 years old a junior developer. I love coding and video games. I have 3 years experience and I'm doing this for fun.
 
 ## 🌐 Techs & Langs🌐
 #### Langs
