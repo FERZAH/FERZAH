@@ -1,5 +1,5 @@
-# Hi! I'm Onur
-🖥️ I'm a discord bot developer, who have 3 years experience
+# Hi! I'm Ferzah
+🖥️ I'm a discord bot developer, who have 4 years experience
 
 ![ferzah](https://komarev.com/ghpvc/?username=FERZAH&color=dc143c)
 
