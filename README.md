@@ -1,10 +1,10 @@
-# Hi! I'm Ferzah
-🖥️ I'm a discord bot developer, who have 5 years experience
+# Hi! I'm Onur
+🖥️ I'm a programming student.
 
 ![ferzah](https://komarev.com/ghpvc/?username=FERZAH&color=dc143c)
 
 # About me
-I'm almost 21 years old a junior developer. I love coding and video games. I have 5 years experience and I'm doing this for fun.
+I'm almost 22 years old a junior developer. I love coding and video games. I have 5 years experience and I'm doing this for fun.
 
 ## 🌐 Techs & Langs🌐
 #### Langs
